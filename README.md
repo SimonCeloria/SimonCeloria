@@ -57,6 +57,10 @@
   <img alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </p>
 
+## 📄 Featured project
+
+📘 [Analysis of microarchitectures](https://www.notion.so/An-lisis-de-microarquitecturas-1cbd2bd67ff98075be24dc07e1ab96eb?pvs=4)
+
 ---
 
 ### 📘 Some of my Academic and Personal projects
