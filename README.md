@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  I'm a Computer Science student from Argentina, working as a consultant at Voolkia SA for Mercado Libre. <img src="https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/svg/1f1e6-1f1f7.svg" width="15" height="15" alt="Argentina Flag" />
+  I'm a Computer Science student from Argentina, working as a Monitoring Analyst at Voolkia SA for Mercado Libre. <img src="https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/svg/1f1e6-1f1f7.svg" width="15" height="15" alt="Argentina Flag" />
 </p>
 
 <p align="center">
